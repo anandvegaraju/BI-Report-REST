@@ -30,7 +30,6 @@ session.trust_env = False
 
 
 #User Inputs (Instance specific)
-#reppath = '/Custom/Human Capital Management/Addresses/Addresses.xdo'
 userName = 'USERNAME' #Instance user account Name
 password = 'PASSWORD' #User account password. Basic Auth only
 

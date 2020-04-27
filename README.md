@@ -12,4 +12,4 @@ Run the script (py app.py in command prompt after navigating to the file directo
 
 Perform a GET request on http://127.0.0.1:5000/getReport
 
-Pass the instanceURL (https://servername.fa.us2.oraclecloud.com), csvDelimiter (pipe symbol, comma symbol, etc) , reportXDOpath (/Custom/Human Capital Management/ReportName.xdo for instance) , dateParam (MM/DD/YYYY) as parameters in the GET request
+Pass the instanceURL (https://servername.fa.us2.oraclecloud.com), csvDelimiter (pipe symbol, comma symbol, etc) , reportXDOpath (/Custom/Human Capital Management/ReportName.xdo for instance) as parameters in the GET request
